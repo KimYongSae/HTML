@@ -44,3 +44,6 @@ nav#left{
 .a:hover>a{
     color: blue;
 }
+img{
+    display: block;
+}
